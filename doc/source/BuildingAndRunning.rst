@@ -16,7 +16,7 @@ The prerequisite software libraries for building the UFS Coastal already exist i
 Unsupported Platforms
 =====================
 
-For a complete walkthrough of Containerized EPIC Spack-Stack 1.6.0 for UFS Coastal on local and unsupported clusters (e.g., TACC Stampede3), see the section titled **"Running UFS Coastal on HPCs with the Containerized EPIC Spack-Stack 1.6.0 Environment"** at the bottom of this page.
+For a complete walkthrough of Containerized EPIC Spack-Stack 1.6.0 for UFS Coastal on local and unsupported clusters (e.g., TACC Stampede3), see :ref:`Running UFS Coastal on HPCs with Spack-Stack <container_hpc_section>` for full instructions.
 
 
 ========
@@ -291,7 +291,7 @@ The up-to-date list of supported and tested (the RTs that is indicated as bold) 
 
 
 
-
+.. _container_hpc_section:
 
 Running UFS Coastal on HPCs with the Containerized EPIC Spack-Stack 1.6.0 Environment
 =====================================================================================
